@@ -1,2 +1,2 @@
 # Wormpose
-Adapted from Wormpose repository published by Laetitia Hebert
+Adapted from and adjusted based on Wormpose repository published by Laetitia Hebert
