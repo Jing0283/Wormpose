@@ -39,7 +39,7 @@ def main():
 
     # Set the path to the dataset,
     # for Tierpsy tracker data this will be the root path of a folder containing subfolders for each videos
-    dataset_path = "D:\\JingALing\\Wormpose\\datasets\\sample_data"
+    dataset_path = "your dataset root path"
     print(dataset_path)
     dataset_root_name = os.path.basename(os.path.normpath(dataset_path))
     project_dir = os.path.join(default_paths.WORK_DIR, dataset_root_name)
